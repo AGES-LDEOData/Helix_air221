@@ -1,0 +1,38 @@
+{
+    "Iso17.9938": {
+        "error": 0.0011085067750246458,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "ba-02-H-04"
+            }
+        ],
+        "value": 0.5826420823604752
+    },
+    "Iso24.9938": {
+        "error": 0.0005838466545624402,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "ba-02-H-04"
+            }
+        ],
+        "value": 0.14774567527904128
+    },
+    "Ne21": {
+        "error": 5.878612749960914e-05,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "ba-02-H-04"
+            }
+        ],
+        "value": 0.0018877626468724483
+    }
+}
